@@ -1,0 +1,8 @@
+app:
+  version: @project.version@
+spring:
+  profiles:
+    active: dev
+bookstore:
+  user:
+    profileImageDirectory: 'D:/bookstore/user/profileImage/'
